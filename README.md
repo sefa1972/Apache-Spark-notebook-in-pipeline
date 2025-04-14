@@ -105,12 +105,11 @@ To avoid unnecessary charges, delete the Synapse workspace and other Azure resou
 
 ## Project Structure
 📁 project-root/
-├── 📄 README.md                   # Proje açıklamalarını içeren dosya
-├── 📓 Spark Transform.ipynb       # Apache Spark notebook (veri dönüşümü işlemleri için)
-└── 📁 deployment/                 # Dağıtım ve kaynak oluşturma dosyaları
-    ├── 📄 synapse-arm-template.json   # Azure Synapse Analytics için ARM şablonu (örnek)
-    └── 📄 provision-workspace.ps1     # Synapse workspace oluşturmak için PowerShell betiği
-
+├── 📄 README.md                   # Project documentation
+├── 📓 Spark Transform.ipynb       # Apache Spark notebook used for data transformation
+└── 📁 deployment/                 # Scripts and templates for provisioning resources
+    ├── 📄 synapse-arm-template.json   # ARM template for deploying Synapse Analytics workspace
+    └── 📄 provision-workspace.ps1     # PowerShell script to provision the Synapse workspace
 
 ---
 
