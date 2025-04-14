@@ -125,6 +125,7 @@ To avoid unnecessary charges, delete the Synapse workspace and other Azure resou
 
 **Sefa Öztürk**  
 Junior Developer | Data Enthusiast | Lifelong Learner
+🔗 www.linkedin.com/in/sefa-ozturk1972
 
 ---
 
